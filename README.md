@@ -1,6 +1,8 @@
 # reg_ss
 Computes confidence intervals, standard errors, and p-values in a linear regression in which the regressor of interest has a shift-share structure Use reg_ss With STATA 19
 
+https://www.youtube.com/watch?v=csJ2ilO_TuA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
